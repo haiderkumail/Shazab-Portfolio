@@ -34,7 +34,7 @@ const Hero = () => {
       <div className="container mx-auto px-4 text-center relative z-10">
         <div className="slide-in-up">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
-            Hi, I'm <span className="gradient-text">Alex Johnson</span>
+            Hi, I'm <span className="gradient-text">Shazab Nazir</span>
           </h1>
           
           <div className="text-2xl md:text-4xl mb-8 h-16 flex items-center justify-center">
