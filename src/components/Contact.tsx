@@ -67,20 +67,20 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'alex.johnson@example.com',
-      link: 'mailto:alex.johnson@example.com'
+      value: 'shazab.mobilink@gmail.com',
+      link: 'shazab.mobilink@gmail.com'
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '+1 (555) 123-4567',
-      link: 'tel:+15551234567'
+      value: '+92 3154293096',
+      link: 'tel:+92 3154293096'
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'San Francisco, CA',
-      link: '#'
+      value: 'Lahore, Pakistan',
+      link: 'Lahore, Pakistan'
     }
   ];
 
